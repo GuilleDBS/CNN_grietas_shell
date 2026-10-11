@@ -1,6 +1,6 @@
 # Detección de Patologías Estructurales
 
-Sistema de visión por computador basado en aprendizaje profundo (**Deep Learning**) para la detección, clasificación e interpretabilidad de patologías superficiales (fisuras y grietas) en estructuras de hormigón/concreto. Créditos al trabajo original https://github.com/ArdaOngun21/concrete-crack-detection-cnn
+Red Neuronal Convolucional (**CNN**) para la detección, clasificación e interpretabilidad de patologías superficiales (fisuras y grietas) en estructuras de hormigón/concreto. Créditos al trabajo original https://github.com/ArdaOngun21/concrete-crack-detection-cnn
 
 > [!NOTE]
 > **Contexto Institucional**: Este proyecto fue desarrollado en el marco del **concurso Shell Lab en alianza con la Facultad de Ingeniería de la Universidad Nacional de Asunción (FIUNA), edición 2026**.
@@ -9,8 +9,8 @@ Sistema de visión por computador basado en aprendizaje profundo (**Deep Learnin
 
 ## 👥 Integrantes del Proyecto
 
-- **Guillermo Benítez**
 - **Micaela González**
+- **Guillermo Benítez**
 - **Gustavo Añazco**
 - **Marcio Martínez**
 - **Axel López**
@@ -21,7 +21,7 @@ Sistema de visión por computador basado en aprendizaje profundo (**Deep Learnin
 
 > [!TIP]
 > **Conviene ejecutar este proyecto en Google Colab**  
-> Debido a que el dataset consta de **40.000 imágenes en alta resolución** y el modelo requiere entrenamiento convolucional intensivo, **se recomienda fuertemente ejecutar el notebook en [Google Colab](https://colab.research.google.com/)**:
+> Debido a que el dataset consta de **40.000 imágenes en alta resolución** y el modelo requiere entrenamiento convolucional intensivo, **se recomienda ejecutar el notebook en [Google Colab](https://colab.research.google.com/)**:
 > - **Aceleración por GPU gratuita**: Permite utilizar GPUs (como NVIDIA T4) reduciendo drásticamente el tiempo de entrenamiento de horas a pocos minutos.
 > - **Descarga e integración directa**: Colab cuenta con un ancho de banda de alta velocidad para descargar y descomprimir el dataset directamente desde Kaggle sin saturar tu almacenamiento ni tu conexión local.
 > - **Entorno preconfigurado**: Incluye TensorFlow, CUDA, cuDNN y librerías científicas listas para usar, evitando problemas de compatibilidad o dependencias en máquinas locales.
