@@ -1,0 +1,26 @@
+# Credenciales privadas de Kaggle
+kaggle.json
+.kaggle/
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Datasets descargados y temporales
+dataset/
+content/
+*.zip
+*.tar.gz
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
