@@ -1,6 +1,6 @@
 # Detección de Patologías Estructurales
 
-Sistema de visión por computador basado en aprendizaje profundo (**Deep Learning**) para la detección, clasificación e interpretabilidad de patologías superficiales (fisuras y grietas) en estructuras de hormigón/concreto.
+Sistema de visión por computador basado en aprendizaje profundo (**Deep Learning**) para la detección, clasificación e interpretabilidad de patologías superficiales (fisuras y grietas) en estructuras de hormigón/concreto. Créditos al trabajo original https://github.com/ArdaOngun21/concrete-crack-detection-cnn
 
 > [!NOTE]
 > **Contexto Institucional**: Este proyecto fue desarrollado en el marco del **concurso Shell Lab en alianza con la Facultad de Ingeniería de la Universidad Nacional de Asunción (FIUNA), edición 2026**.
